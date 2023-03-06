@@ -18,8 +18,7 @@ export const data = [
     },
     {
         image: '/images/space3.jpg',
-        title: 'Starship selected by Nasa to support sustained Lunar Exploration',
-        desc: 'Crew-6 mission',
+        desc: 'Starship selected by Nasa to support sustained Lunar Exploration',
         btn: 'learn more',
     },
 ]
