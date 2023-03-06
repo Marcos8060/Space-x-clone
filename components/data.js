@@ -1,7 +1,7 @@
 export const data = [
     {
         image: '/images/space.jpg',
-        title: 'Reecent Launch',
+        title: 'Recent Launch',
         desc: 'Crew-6 mission',
         btn: 'rewatch',
     },
@@ -13,7 +13,7 @@ export const data = [
     },
     {
         image: '/images/space2.jpg',
-        title: 'Starship Update',
+        desc: 'Starship Update',
         btn: 'learn more',
     },
     {
