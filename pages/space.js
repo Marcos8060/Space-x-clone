@@ -1,4 +1,5 @@
 import { data } from '@/components/data'
+import Navbar from '@/components/Navbar'
 import React from 'react'
 
 
@@ -6,6 +7,7 @@ const Space = () => {
   return (
     <>
     <section>
+    <Navbar />
       {data.map((item,index) =>(
         <div key={index} className="relative">
           <img src={item.image} alt="" />

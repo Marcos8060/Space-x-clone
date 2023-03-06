@@ -1,3 +1,7 @@
+import First from '@/components/first'
+import Fourth from '@/components/fourth'
+import Second from '@/components/second'
+import Third from '@/components/third'
 import Head from 'next/head'
 import Space from './space'
 
@@ -12,7 +16,10 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        <Space />
+        <First />
+        <Second />
+        <Third />
+        <Fourth />
       </main>
     </>
   )
