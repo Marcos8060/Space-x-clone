@@ -33,3 +33,13 @@ export const menu =[
     'Starshield',
     'StarLink',
 ]
+
+export const footer =[
+    'twitter',
+    'youtube',
+    'instagram',
+    'flickr',
+    'linkedin',
+    'privacy policy',
+    'suppliers',
+]

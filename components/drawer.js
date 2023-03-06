@@ -14,7 +14,7 @@ export default function Drawer({ children, isOpen, setIsOpen }) {
       >
         <section
           className={
-            "right-0 w-1/4 absolute bg-black py-12 px-12 opacity-100 p-4 h-screen shadow-xl delay-400 duration-500 ease-in-out transition-all transform" +
+            "right-0 md:w-1/4 w-3/4 absolute bg-black py-12 px-12 opacity-100 p-4 h-screen shadow-xl delay-400 duration-500 ease-in-out transition-all transform" +
             (isOpen ? " translate-x-0 " : " translate-x-full ")
           }
         >

@@ -1,4 +1,5 @@
 import First from '@/components/first'
+import Footer from '@/components/footer'
 import Fourth from '@/components/fourth'
 import Second from '@/components/second'
 import Third from '@/components/third'
@@ -20,6 +21,7 @@ export default function Home() {
         <Second />
         <Third />
         <Fourth />
+        <Footer />
       </main>
     </>
   )
