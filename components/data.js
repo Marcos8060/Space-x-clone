@@ -32,5 +32,4 @@ export const menu =[
     'Rideshare',
     'Starshield',
     'StarLink',
-    'Shop',
 ]
