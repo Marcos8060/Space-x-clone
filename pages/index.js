@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import Space from './space'
 
 
 export default function Home() {
@@ -11,7 +12,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main>
-        hello
+        <Space />
       </main>
     </>
   )
